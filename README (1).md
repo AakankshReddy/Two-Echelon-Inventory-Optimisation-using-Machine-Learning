@@ -281,12 +281,33 @@ inventory-optimization-elite/
 └── data/
     └── Walmart_Sales.csv                 # Source dataset 
 ```
+## GRAPHS AND OUTPUTS
+
+<img width="2272" height="955" alt="image" src="https://github.com/user-attachments/assets/0afe3487-cd03-4b0f-b73c-6e0b83173a29" />
+
+<img width="1736" height="1455" alt="image" src="https://github.com/user-attachments/assets/8a93bc49-9901-45bc-aba9-dc7fbd10b841" />
+
+<img width="1638" height="655" alt="image" src="https://github.com/user-attachments/assets/52f4010d-ae7c-4f34-9966-2a1fc4f8b0b5" />
+
+<img width="2325" height="769" alt="image" src="https://github.com/user-attachments/assets/d54f81cb-5055-4f47-8d65-6aecc8de9f91" />
+
+<img width="1913" height="849" alt="image" src="https://github.com/user-attachments/assets/cfde68be-07f1-43ad-ae85-fa764f568e3e" />
+
+<img width="2325" height="769" alt="image" src="https://github.com/user-attachments/assets/881ecc6d-e9d0-4e68-9a21-be5eaeeb28c4" />
+
+<img width="2322" height="769" alt="image" src="https://github.com/user-attachments/assets/24fa0d04-8c6d-4fd5-a095-86bc246b5e19" />
+
+<img width="1794" height="1024" alt="image" src="https://github.com/user-attachments/assets/f263de68-aef8-4b2f-a990-8b46dde64a1b" />
+
+<img width="1668" height="769" alt="image" src="https://github.com/user-attachments/assets/1ebc43aa-a137-4be4-88ca-c1e648b2d6fc" />
+
+<img width="2325" height="1152" alt="image" src="https://github.com/user-attachments/assets/5db45d96-9215-41d2-8140-aa2c77a77146" />
+
+<img width="2061" height="769" alt="image" src="https://github.com/user-attachments/assets/a9b0611c-fcb0-4183-8f37-bd7843650fcf" />
 
 ---
 
 
 *Built with Python · Prophet · XGBoost · Numba · Matplotlib*
-## Screenshots
 
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
 
